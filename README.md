@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ignatius Revanth Pudota</h1>
 <h3 align="center">A passionate Financial Analyst</h3>
-
+<img align="center" alt="coding" width="700" src="https://github.com/RevanthPudota/Master/blob/main/Revanth_roadmap.png">
 - 🌱 I’m currently learning **SQL, Data Visualization, Statistics, Machine Learning**
 - As a skilled Financial Analyst with a proven track record in analyzing market trends and financial data, I am actively seeking new opportunities to apply my expertise. With a strong understanding of financial modeling, risk assessment, and investment strategies, I am confident in my ability to drive strategic decision-making and optimize financial performance.
 - I possess excellent quantitative and qualitative analysis skills, coupled with advanced proficiency in financial software and tools.
